@@ -9,7 +9,7 @@ title: Produkt- und Servicebeschreibung für Deutschland
 
 ## Ziel und Inhalt
 
-Ziel dieser Dokumentation ist es, unseren Kunden zu helfen, sich mit unseren Produkten und Dienstleistungen für den deutschen Markt vertraut zu machen. Es soll unseren Kunden auch dabei helfen, die hier beschriebenen Produkte und Dienstleistungen anzuwenden. 
+Ziel dieser Dokument  ation ist es, unseren Kunden zu helfen, sich mit unseren Produkten und Dienstleistungen für den deutschen Markt vertraut zu machen. Es soll unseren Kunden auch dabei helfen, die hier beschriebenen Produkte und Dienstleistungen anzuwenden. 
 
 Neben der Beschreibung der von fiskaltrust angebotenen Produkte und Dienstleistungen für den deutschen Markt enthält diese Dokumentation auch Begleitmaterialien wie Anleitungen, Preislisten, Konzepte und Präsentationen, welche unseren Kunden dabei helfen, die hier angebotenen Produkte und Dienstleistungen in ihre eigenen Produkte und Dienstleistungen zu integrieren.
 
@@ -45,7 +45,7 @@ Begriffsdefinitionen im Zusammenhang mit Produkten von fiskaltrust und Kassensys
 
 Folgende Auflistung zeigt weitere fiskaltrust Repositories, die für unsere Kunden von Bedeutung sind. 
 
-| **Github Repo**            | **Ziel** | **Inhalte** |
+| **GitHub Repo**            | **Ziel** | **Inhalte** |
 |-------------------|----------|------------|
 |[fiskaltrust/interface-doc](https://github.com/fiskaltrust/interface-doc)| Ziel dieses Respository ist es, eine detaillierte Spezifikation der Schnittstelle (ft.Interface) zur fiskaltrust Middleware zur Verfügung zu stellen. Diese Schnittstelle wird von Kassensystemen verwendet um mit der fiskaltrust.Middleware zu kommunizieren.| <ul><li>Zugriffsmöglichkeiten auf die fiskaltrust.Middleware</li><li>Integration im belegbasierten Kassen-Workflow</li><li>Datenstruktur der Schnittstelle</li><li>Funktionsstruktur der Schnittstelle</li><li>Arten der Kommunikation mit der fiskaltrust.Middleware</li><li>Infos über die verfügbaren Nugget Packages</li></ul>|
 |[fiskaltrust/faq](https://github.com/fiskaltrust/faq)| Der Zweck dieses Repository ist es, Antworten und Informationen zu häufig gestellten Fragen unserer Kunden bereitzustellen.| Das Repository enthält markierte Frage- und Antwortsets. Sollte der Inhalt einer Antwort bereits in einem anderen öffentlichen fiskaltrust Repository existieren, so wird der Inhalt hier verlinkt.|
