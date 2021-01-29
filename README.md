@@ -11,7 +11,7 @@ title: Produkt- und Servicebeschreibung für Deutschland
 
 Ziel dieser Dokumentation ist es, unseren Kunden zu helfen, sich mit unseren Produkten und Dienstleistungen für den deutschen Markt vertraut zu machen. Es soll unseren Kunden auch dabei helfen, die hier beschriebenen Produkte und Dienstleistungen anzuwenden. 
 
-Neben der Beschreibung der von fiskaltrust angebotenen Produkte und Dienstleistungen für den deutschen Markt enthält es auch Begleitmaterialien wie Anleitungen, Preislisten, Konzepte und Präsentationen, die unseren Kunden dabei helfen, die hier angebotenen Produkte und Dienstleistungen in ihre eigenen Produkte und Dienstleistungen zu integrieren.
+Neben der Beschreibung der von fiskaltrust angebotenen Produkte und Dienstleistungen für den deutschen Markt enthält diese Dokumentation auch Begleitmaterialien wie Anleitungen, Preislisten, Konzepte und Präsentationen, welche unseren Kunden dabei helfen, die hier angebotenen Produkte und Dienstleistungen in ihre eigenen Produkte und Dienstleistungen zu integrieren.
 
 Dieses Repository besteht aus folgenden Abschnitten:
 
