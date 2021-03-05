@@ -19,7 +19,6 @@ Das _fiskaltrust.Middleware.SCU.DE.CryptoVision_-Package ermöglicht die Verbind
 | _adminPin_ | Admin-PIN der TSE. Falls nicht angegeben, wird der Default-PIN verwendet. | ja |
 | _timeAdminPin_ | Time Admin-PIN der TSE. Falls nicht angegeben, wird der Default-PIN verwendet. | ja |
 
-
 ## Hardware
 
 ### Bundesdruckerei TSE, microSD, 8GB
